@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+matplotlib
+seaborn
+ydata-profiling
+shap
+openai
